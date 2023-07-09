@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yahia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Kurdistan</h3>
 
-- 🔭 I’m currently working on **NPI**
+- 🔭 I’m currently working on **company project ** and **personal project**
 
 - 👨‍💻 All of my projects are available at [github.com/iamyahia](github.com/iamyahia)
 
