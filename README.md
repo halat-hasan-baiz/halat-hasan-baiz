@@ -3,11 +3,14 @@
 
 - 🔭 I’m currently working on **company project ** and **personal project**
 
-- 👨‍💻 All of my projects are available at [github.com/iamyahia](github.com/iamyahia)
+- 👨‍💻 All of my projects are available at [github](github.com/iamyahia)
 
-- 📝 I regularly write articles on [MERN stack](MERN stack)
+- 📝 I regularly write articles on: _MERN stack_
 
-- 📫 How to reach me **instagram.com/yahiabaiz**
+- 📫 How to reach me: 
+email: yahiabaiz@gmail.com
+LinkedIn: [click_me](https://www.linkedin.com/in/iamyahia/)
+Instagram: [click_me](instagram.com/yahiabaiz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
