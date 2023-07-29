@@ -7,9 +7,12 @@
 
 - 📝 I regularly write articles on: Front-end tips in instagram 
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
+  
 email: yahiabaiz@gmail.com
+
 LinkedIn: [click_me](https://www.linkedin.com/in/iamyahia/)
+
 Instagram: [click_me](instagram.com/yahiabaiz)
 
 
