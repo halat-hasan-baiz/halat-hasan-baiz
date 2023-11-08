@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yahia</h1>
 <h3 align="center">A passionate frontend developer from Kurdistan</h3>
-<p>my portfolio will be available soon with this domain <strong>[yahia.dev](https://www.yahia.dev.com)</strong> </p>
+<p>my portfolio will be available soon with this domain <a href="https://www.yahia.dev"><strong>   yahia.dev </strong></a> </p>
 
 - 🔭 I’m currently working for **[Gateway](https://www.the-gw.com) company**, **[judi-soft](https://www.judisoft.com) team** and **personal project**  
 
