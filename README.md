@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yahia</h1>
+<h1 align="center">Hi, I'm Yahia</h1>
 <h3 align="center">A passionate frontend developer from Kurdistan</h3>
 <p>my portfolio will be available soon with this domain <a href="https://www.yahia.dev"><strong>   yahia.dev </strong></a> </p>
 
