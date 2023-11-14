@@ -14,7 +14,7 @@ email: yahiabaiz@gmail.com
 
 LinkedIn: [click_me](https://www.linkedin.com/in/iamyahia/)
 
-Instagram: [click_me](instagram.com/yahiabaiz)
+Instagram: [click_me](https://www.instagram.com/yahiabaiz)
 
 
 <h3 align="left">Languages and Tools:</h3>
