@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Yahia</h1>
 <h3 align="center">A passionate frontend developer from Kurdistan</h3>
 
-- 🔭 I’m currently working for **[Gateway](https://www.the-gw.com) company**, **[judi-soft](https://judisoft.com) team** and **personal project**  
-
-- 👨‍💻 All of my projects are available at [github](github.com/iamyahia)
+- 🔭 I’m currently working for **[Gateway](https://www.the-gw.co
 
 - 📝 I regularly write articles about dev skills and tips. 
 
